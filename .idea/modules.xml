@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaregister/eurekaregister.iml" filepath="$PROJECT_DIR$/eurekaregister/eurekaregister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaregister2/eurekaregister2.iml" filepath="$PROJECT_DIR$/eurekaregister2/eurekaregister2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaservice1/eurekaservice1.iml" filepath="$PROJECT_DIR$/eurekaservice1/eurekaservice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignconsumer/feignconsumer.iml" filepath="$PROJECT_DIR$/feignconsumer/feignconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkaconsumer/kafkaconsumer.iml" filepath="$PROJECT_DIR$/kafkaconsumer/kafkaconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqhello/rabbitmqhello.iml" filepath="$PROJECT_DIR$/rabbitmqhello/rabbitmqhello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" filepath="$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceapi/serviceapi.iml" filepath="$PROJECT_DIR$/serviceapi/serviceapi.iml" />
+    </modules>
+  </component>
+</project>

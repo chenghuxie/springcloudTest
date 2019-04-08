@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eurekaregister/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaregister2/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbonconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaservice1/pom.xml" />
+        <option value="$PROJECT_DIR$/parent/pom.xml" />
+        <option value="$PROJECT_DIR$/feignconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/serviceapi/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+</project>
